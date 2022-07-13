@@ -1,0 +1,2 @@
+# -nsertion-sort-proje
+ödev
